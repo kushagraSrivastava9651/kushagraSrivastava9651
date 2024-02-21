@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrasrivastava9651&" alt="kushagrasrivastava9651" /></p>
 
-![Snake animation](https://github.com/kushagraSrivastava9651/kushagraSrivastava9651/blob/output/github-contribution-grid-snake.svg)
+ 
  
