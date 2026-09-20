@@ -89,7 +89,7 @@ A personal finance platform for Indian users — EMI, SIP, FD, tax, and loan-com
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kushagraSrivastava9651/kushagraSrivastava9651/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kushagraSrivastava9651/kushagraSrivastava9651/output/dist/github-contribution-grid-snake.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
