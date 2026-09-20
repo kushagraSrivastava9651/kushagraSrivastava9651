@@ -21,7 +21,7 @@ role: Software Engineer (Full Stack) @ ASBL, Hyderabad
 focus: Backend systems, microservices, MERN stack
 also_build: Android apps (Kotlin/Java)
 side_project: DhanHelp — personal finance platform (dhanhelp.in)
-content: "DhanHelp" — YouTube channel on personal finance
+content: "3 Minute Paisa" — YouTube channel on personal finance
 ask_me_about: [Node.js, Express, MongoDB, System Design, Android]
 reach_me_at: kushagra9651@gmail.com
 ```
@@ -67,11 +67,7 @@ reach_me_at: kushagra9651@gmail.com
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kushagrasrivastava9651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=kushagrasrivastava9651&theme=tokyonight&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrasrivastava9651&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/kushagraSrivastava9651/kushagraSrivastava9651/main/metrics.svg" width="100%"/>
 
 </td>
 </tr>
@@ -85,15 +81,11 @@ reach_me_at: kushagra9651@gmail.com
 <img src="https://img.shields.io/badge/DhanHelp-Personal%20Finance%20Platform-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-A personal finance platform for Indian users — EMI, SIP, FD, tax, and loan-comparison calculators, built end-to-end (React + Node/Express, deployed on Render). Pairs with **DhanHelp**, a YouTube channel breaking down personal finance in short, easy videos.
+A personal finance platform for Indian users — EMI, SIP, FD, tax, and loan-comparison calculators, built end-to-end (React + Node/Express, deployed on Render). Pairs with **3 Minute Paisa**, a YouTube channel breaking down personal finance in short, easy videos.
 
 ---
 
 <div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=kushagrasrivastava9651&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
 ### 🐍 Contribution Snake
 
