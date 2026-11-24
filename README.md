@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Kushagra%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="./avatar.svg" alt="Kushagra Srivastava" width="160"/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=620&lines=Backend+Engineer+%40+ASBL%2C+Hyderabad;Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;Event-driven+systems%2C+idempotency%2C+retries;Building+DhanHelp+%E2%80%94+1%2C200%2B+monthly+users" alt="Typing SVG" />
 
 <p>
