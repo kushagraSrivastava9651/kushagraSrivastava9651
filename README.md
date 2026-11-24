@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a backend engineer with about 2 years of experience (including my internship). I build production microservices with **Node.js, TypeScript, PostgreSQL, MongoDB and AWS**. I like the parts of a system that have to keep working when things fail: retries, idempotency, distributed locks and safe data migrations.
 
@@ -31,26 +31,26 @@ learning:     Distributed systems & system design (LLD / HLD)
 ask_me_about: [Node.js, TypeScript, PostgreSQL, AWS SQS, Redis, System Design]
 ```
 
-## 🏗️ What I've Built at Work
+## What I've Built at Work
 
 | | |
 |---|---|
-| 🔄 **Inventory sync microservice** | Node.js + TypeScript + Prisma + AWS SQS. Handles 10k leads/day. Cut duplicate writes by about 50% and sync latency by about 90%. |
-| 🗄️ **MongoDB → PostgreSQL migration** | ETL pipeline using the transactional outbox pattern and idempotent upserts. Kept both stores consistent during a live cutover. |
-| 🔒 **Airtel IVR hardening** | Redis distributed locks (`SET NX EX`) stop token-refresh races. Exponential-backoff retries for async recording fetches. |
-| 🤖 **ArchitectHelper (RAG)** | Reads DWG blueprints with Gemini + FAISS retrieval (React, FastAPI). Cut manual review time by 90%. |
-| ⚡ **API performance** | Rewrote MongoDB aggregation pipelines to remove N+1 query patterns in the core lead-management APIs. |
+| **Inventory sync microservice** | Node.js + TypeScript + Prisma + AWS SQS. Handles 10k leads/day. Cut duplicate writes by about 50% and sync latency by about 90%. |
+| **MongoDB → PostgreSQL migration** | ETL pipeline using the transactional outbox pattern and idempotent upserts. Kept both stores consistent during a live cutover. |
+| **Airtel IVR hardening** | Redis distributed locks (`SET NX EX`) stop token-refresh races. Exponential-backoff retries for async recording fetches. |
+| **ArchitectHelper (RAG)** | Reads DWG blueprints with Gemini + FAISS retrieval (React, FastAPI). Cut manual review time by 90%. |
+| **API performance** | Rewrote MongoDB aggregation pipelines to remove N+1 query patterns in the core lead-management APIs. |
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 💰 [**DhanHelp**](https://dhanhelp.in) | Live personal finance site with 1,200+ monthly users. Has EMI, SIP, FD, loan and FY 2025–26 tax calculators, a budget tracker, a blog and an admin dashboard. | React · Node · Express · MongoDB · JWT · Turborepo |
-| 🔁 [**Webhook Retry Engine**](https://github.com/kushagraSrivastava9651/WebhookRetryEngine) | Durable webhook delivery with idempotent ingest, exponential backoff, retry classification and full attempt history. | TypeScript · Node · SQLite |
-| 📰 [**Quick News**](https://github.com/kushagraSrivastava9651/Quick-News) | Android news app with category feeds, Gemini Q&A about images (multimodal) and Firebase auth and feedback. | Kotlin · Compose · Firebase · Gemini |
-| 🎵 [**Spotify Widget**](https://github.com/kushagraSrivastava9651/Spotify_Widgets) | Floating overlay that detects the song playing in Spotify and lets you save notes, ratings and emoji reactions on it. | Kotlin · Compose · Room · Coroutines |
+| [**DhanHelp**](https://dhanhelp.in) | Live personal finance site with 1,200+ monthly users. Has EMI, SIP, FD, loan and FY 2025–26 tax calculators, a budget tracker, a blog and an admin dashboard. | React · Node · Express · MongoDB · JWT · Turborepo |
+| [**Webhook Retry Engine**](https://github.com/kushagraSrivastava9651/WebhookRetryEngine) | Durable webhook delivery with idempotent ingest, exponential backoff, retry classification and full attempt history. | TypeScript · Node · SQLite |
+| [**Quick News**](https://github.com/kushagraSrivastava9651/Quick-News) | Android news app with category feeds, Gemini Q&A about images (multimodal) and Firebase auth and feedback. | Kotlin · Compose · Firebase · Gemini |
+| [**Spotify Widget**](https://github.com/kushagraSrivastava9651/Spotify_Widgets) | Floating overlay that detects the song playing in Spotify and lets you save notes, ratings and emoji reactions on it. | Kotlin · Compose · Room · Coroutines |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**<br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -79,13 +79,13 @@ ask_me_about: [Node.js, TypeScript, PostgreSQL, AWS SQS, Redis, System Design]
 
 **Concepts:** Microservices · Event-driven architecture · Outbox pattern · Idempotency · Distributed locking · Retries & backoff
 
-## 🧠 Problem Solving
+## Problem Solving
 
 - **950+ DSA problems** solved: GeeksforGeeks (700+) and LeetCode (250+)
 - **Pupil** on Codeforces (max rating 1250)
 - B.Tech in IT, AKGEC Ghaziabad (CGPA 8.1)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kushagraSrivastava9651/kushagraSrivastava9651/main/metrics.svg" width="70%"/>
